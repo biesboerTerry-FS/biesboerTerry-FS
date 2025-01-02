@@ -2,7 +2,7 @@
 - 👀 I’m interested in art and design
 - 🌱 I’m currently learning HTML, CSS, JS, API, JSON, React.js
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me tbiesboer@gmail.com
+- 📫 How to reach me thatdevterry@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
